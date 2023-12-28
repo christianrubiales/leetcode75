@@ -1,4 +1,4 @@
-package _01ArraysAndStrings;
+package _01ArraysAndStrings.easy;
 
 /*
  * You are given two strings word1 and word2. Merge the strings by adding letters 

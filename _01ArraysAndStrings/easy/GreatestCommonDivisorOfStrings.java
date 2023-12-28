@@ -1,4 +1,4 @@
-package _01ArraysAndStrings;
+package _01ArraysAndStrings.easy;
 
 /*
  * For two strings s and t, we say "t divides s" if and only if 

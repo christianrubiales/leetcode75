@@ -1,4 +1,4 @@
-package _01ArraysAndStrings;
+package _01ArraysAndStrings.easy;
 
 /*
  * Given a string s, reverse only all the vowels in the string and return it.
